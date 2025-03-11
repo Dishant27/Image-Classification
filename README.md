@@ -222,7 +222,9 @@ def predict_image(image_path, model):
 - Apply transfer learning from models pre-trained on ImageNet
 - Add real-time image classification using webcam input
 - Expand to other datasets with higher resolution images
-- Optimize model for mobile deployment
+- Optimize model for mobile deployment with TensorFlow Lite
+- Experiment with model quantization for reduced size and inference time
+- Implement model pruning to remove redundant connections
 
 ## 📚 References
 
