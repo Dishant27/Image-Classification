@@ -240,3 +240,5 @@ Dishant - [GitHub Profile](https://github.com/Dishant27)
 ---
 
 **Note**: This project demonstrates deep learning concepts for image classification and can be extended for various computer vision applications.
+
+## 📷 Model Optimized
